@@ -9,7 +9,7 @@ such as eating expenses, travel and others
 
 <br> <img src="screenshots/screen-2.png" alt="Screenshot">
 
-<br> <img src="screenshots/app_1.gif" alt="Screenshot">
+<br> <img src="screenshots/app_1.gif" alt="Screenshot" height=800 > 
 
 ## Features
 
